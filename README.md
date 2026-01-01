@@ -1,16 +1,16 @@
 # Hi, I'm Cedrick 👋
 
-I'm a **student developer from the Philippines** 🇵🇭 with a strong interest in **web development, ICT systems, and practical school-based solutions**. I enjoy building projects that solve real problems—especially systems used by students, teachers, and schools.
+I'm a **1st-year college student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for schools and students.
 
 ---
 
 ## 👨‍🎓 About Me
 
-* 🎓 Student at **Colegio de Los Baños**
-* 💻 Coding experience in **HTML, CSS, JavaScript, PHP, and SQL**
-* 🧠 Interested in **system design, dashboards, and automation**
-* 🏫 Most of my projects are inspired by **school and academic needs**
-* 📈 Always improving through hands-on projects, not just tutorials
+* 🎓 1st Year College Student at **Laguna State Polytechnic University (LSPU)**
+* 🏫 Former Senior High student from **Colegio de Los Baños (CDLB)**
+* 💻 Experience in **HTML, CSS, JavaScript, PHP, and SQL**
+* 🎨 Interested in **UI/UX Design**, **Machine Learning** and **Web Development**
+* 🧩 I also design interfaces using **Figma**
 
 ---
 
@@ -20,93 +20,49 @@ I'm a **student developer from the Philippines** 🇵🇭 with a strong interest
 
 * HTML5
 * CSS3 (Flexbox, Grid)
-* JavaScript (DOM manipulation, basic logic)
+* JavaScript
 
 **Backend**
 
 * PHP
-* SQL / MySQL
+* MySQL / SQL
 
-**Tools & Others**
+**Design & Tools**
 
+* Figma (UI/UX Design)
 * Git & GitHub
 * Boxicons
 * Responsive Web Design
-* Basic UI/UX principles
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Special Project
 
-### 🎓 Student Portal System
+### 🏆 Grade 12 Best Research Project – CDLB Student Portal
 
-A centralized web platform designed for students to access their academic records and school-related information.
+A full-featured **Student Portal System** developed as my **Grade 12 Best Research Project** at Colegio de Los Baños, which **won Best Research**.
 
-* Student login using **Student ID & temporary password**
-* Dashboard with schedules, announcements, and records
-* Responsive layout for desktop and mobile
-* Designed to replace outdated systems
-
-### 📡 RFID-Based Attendance System
-
-An attendance tracking system integrated with a web backend.
-
-* RFID scanning already implemented
-* PHP used for backend integration
-* Secure and efficient attendance logging
-* Designed for classroom and school use
-
-### 📊 Grading / Gradebook System
-
-A system designed for teachers to manage grades efficiently.
-
-* Automated grade calculations
-* Customizable grading criteria
-* Secure teacher login
-* Simple and easy-to-use dashboard
-
-### 💬 Student Forum / Discussion Board
-
-A web forum for student interaction.
-
-* Create posts with user info and date
-* Like and comment functionality
-* Clean UI with Boxicons
-* Designed to encourage engagement
-
----
-
-## 📚 What I’m Currently Learning
-
-* JavaScript problem-solving & algorithms
-* Better backend logic with PHP
-* Database design and normalization
-* Writing cleaner and more readable code
+* Multiple functionalities with **many system panels** (Admin Panel, Student Panel, Teacher Panel, and Service Support Panel)
+* Centralized platform for accessing academic information
+* Secure login using Student ID and temporary password
+* Designed to create a friendly student portal system
+* Built with a focus on usability, structure, and real school needs with of couse greate design
 
 ---
 
 ## 🎯 Goals
 
-* Build **production-ready school systems**
-* Improve algorithmic thinking
-* Create projects that can be **actually deployed and used**
-* Strengthen both frontend design and backend logic
-
----
-
-## 🧩 Development Philosophy
-
-> "I learn best by building real things. If it solves a real problem, it's worth making."
-
-I prefer **practical, understandable solutions** over overly complex ones. Clean UI, clear logic, and usability always come first.
+* Strengthen backend logic and database design
+* Learn and apply **Machine Learning** concepts
+* Improve **UI/UX design skills** through real projects
+* Build deployable systems that can be used in actual institutions
+* Solve unsolved problem
+* Learn more about algorithm
 
 ---
 
 ## 📫 Let’s Connect
 
 * GitHub: *You’re already here* 😄
-* Open to collaboration on **school systems, dashboards, and web apps**
 
----
-
-⭐ *Feel free to explore my repositories and follow my journey as I grow as a developer.*
+⭐ *Thanks for visiting my profile!*
