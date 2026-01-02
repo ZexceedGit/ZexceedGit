@@ -1,6 +1,6 @@
 # Hi, I'm Cedrick 👋
 
-I'm a **1st-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for almost anything actually i love solving problem.
+I'm a **1st-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for almost anything actually, i just love solving problems and designing stuff.
 
 ---
 
