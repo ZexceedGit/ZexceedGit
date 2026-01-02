@@ -1,6 +1,6 @@
 # Hi, I'm Cedrick 👋
 
-I'm a **1st-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for schools and students.
+I'm a **1st-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for almost anything actually i love solving problem.
 
 ---
 
@@ -19,20 +19,22 @@ I'm a **1st-year college Computer science student at Laguna State Polytechnic Un
 **Frontend**
 
 * HTML5
-* CSS3 (Flexbox, Grid)
+* CSS5 
 * JavaScript
+* React (Basics)
 
 **Backend**
 
 * PHP
 * MySQL / SQL
 
-**Design & Tools**
+**Design, Tools and Libraries**
 
 * Figma (UI/UX Design)
 * Git & GitHub
-* Boxicons
-* Responsive Web Design
+* Boxicons,Materialcons and Fontawesome
+* GSAP
+* AOS
 
 ---
 
@@ -55,7 +57,7 @@ A full-featured **Student Portal System** developed as my **Grade 12 Best Resear
 * Strengthen backend logic and database design
 * Learn and apply **Machine Learning** concepts
 * Improve **UI/UX design skills** through real projects
-* Build deployable systems that can be used in actual institutions
+* Build deployable systems that can be used in real life
 * Solve unsolved problem
 * Learn more about algorithm
 
