@@ -13,28 +13,35 @@ I'm a **1st-year college Computer science student at Laguna State Polytechnic Un
 * 🧩 I also design interfaces using **Figma**
 
 ---
+## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
-**Frontend**
+### ⚙ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-* HTML5
-* CSS5 
-* JavaScript
-* React (Basics)
+### 🎨 Tools & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" width="40"/>
+</p>
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/AOS-Animation-blueviolet"/>
+  <img src="https://img.shields.io/badge/Icons-Boxicons%20|%20Material%20|%20FA-orange"/>
+</p>
 
-* PHP
-* MySQL / SQL
-
-**Design, Tools and Libraries**
-
-* Figma (UI/UX Design)
-* Git & GitHub
-* Boxicons,Materialcons and Fontawesome
-* GSAP
-* AOS
 
 ---
 
