@@ -1,12 +1,12 @@
 # Hi, I'm Cedrick 👋
 
-I'm a **1st-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for almost anything actually, i just love solving problems and designing stuff.
+I'm a **2nd-year college Computer science student at Laguna State Polytechnic University (LSPU)** 🇵🇭 and a **student developer** interested in building practical, real-world systems for almost anything actually, i just love solving problems and designing stuff.
 
 ---
 
 ## 👨‍🎓 About Me
 
-* 🎓 1st Year College Student at **Laguna State Polytechnic University (LSPU)**
+* 🎓 2nd Year College Student at **Laguna State Polytechnic University (LSPU)**
 * 🏫 Former Senior High student from **Colegio de Los Baños (CDLB)**
 * 💻 Experience in **HTML, CSS, JavaScript, PHP, and SQL**
 * 🎨 Interested in **UI/UX Design**, **Machine Learning** and **Web Development**
