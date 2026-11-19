@@ -73,8 +73,11 @@ A full-featured **Student Portal System** developed as my **Grade 12 Best Resear
 
 ---
 
+
 ## 📫 Let's Connect
 
-- GitHub: *You're already here* 😄
+- 💻 GitHub: *You're already here* 😄
+- 📘 Facebook: [My Facebook](https://www.facebook.com/cedrick.eusebio.35)
+- 📸 Instagram: [My Instagram](https://www.instagram.com/zed.drafts/)
 
 ⭐ *Thanks for visiting my profile!*
